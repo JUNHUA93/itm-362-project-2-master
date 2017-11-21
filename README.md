@@ -1,6 +1,8 @@
 # itm-362-project-2-master
 This is the itm 362 fall project two.
 
+__________________________________________________________________________________________________________________________________________
+
 1. Self-critique memo of the project and progress in class in this point:
 
 In this project, I reviewed and deepened my previous knowledge of web design. In addition, by redesigning the login interface code and with the help of other members of the team, I not only learned to code the login screen but also learned how to cater to the needs of users. More importantly, with this project, I realized that the importance of being a team leader is responsible.
